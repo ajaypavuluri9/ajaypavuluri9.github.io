@@ -8,9 +8,10 @@ tags: [Analysis,Loan Delinquency]
 author: Ajay Babu Pavuluri
 ---
 
-In recent years, financial institutions in the UK have faced significant challenges due to rising delinquency rates. The economic instability caused by the COVID-19 pandemic has led to an increase in loan defaults and financial losses. According to a report by S&P Global Market Intelligence, major British banks made provisions against loan losses of more than £7.5 billion in the first quarter of 2020, nearly six times the amount set aside in the same period the previous year. These provisions reflect the anticipated rise in credit losses, which are estimated to reach £18.5 billion.
+In recent years, financial institutions in the UK have faced significant challenges due to rising delinquency rates. The economic instability caused by the COVID-19 pandemic has led to an increase in loan defaults and financial losses. According to a report by S&P Global Market Intelligence, major British banks made provisions against loan losses of more than £7.5 billion in the first quarter of 2020, nearly six times the amount set aside in the same period the previous year. These provisions reflect the anticipated rise in credit losses, which are estimated to reach £18.5 billion&#8203;:[[S&P Global](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/uk-banks-loan-loss-provisions-soar-in-face-of-pandemic-58478176)]&#8203;.
+.
 
-The Bank of England's Financial Stability Report of June 2024 highlights that mortgage arrears are expected to rise significantly, with an estimated 128,000 cases of mortgage arrears projected by the end of 2024, up from 105,600 cases at the end of the previous year. This increase in arrears is attributed to higher living costs and economic uncertainty, affecting borrowers' ability to meet their financial obligations.
+The Bank of England's Financial Stability Report of June 2024 highlights that mortgage arrears are expected to rise significantly, with an estimated 128,000 cases of mortgage arrears projected by the end of 2024, up from 105,600 cases at the end of the previous year. This increase in arrears is attributed to higher living costs and economic uncertainty, affecting borrowers' ability to meet their financial obligations&#8203;:[[Bank of England](https://www.bankofengland.co.uk/financial-stability-report/2024/june-2024)]&#8203;.
 
 Given this context, it is crucial for financial institutions to develop robust predictive models to identify and mitigate the risks associated with loan delinquencies. Our project focuses on developing analytical insights to predict loan delinquency using basic Python programming and NumPy. By leveraging historical loan data, we aim to provide financial institutions with actionable insights to enhance their risk management strategies and reduce potential losses due to delinquency.
 
@@ -147,4 +148,4 @@ def create_visualizations(df, analysis_results):
 ```
 These insights and analysis results provide a comprehensive understanding of the loan data, highlighting key trends and relationships that can help financial institutions improve their risk management strategies. The ability to predict and mitigate loan delinquency risks can significantly enhance financial stability and profitability.
 
-For more details on the code and analysis, please refer to the [GitHub repository]([https://github.com/your-username/your-repository](https://github.com/ajaypavuluri9/loan-delinquency-analysis)).
+For more details on the code and analysis, please refer to the [GitHub repository](https://github.com/ajaypavuluri9/loan-delinquency-analysis).
