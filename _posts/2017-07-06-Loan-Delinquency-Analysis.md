@@ -1,4 +1,12 @@
-# Loan Delinquency and Its Impact on Financial Institutions in the UK
+---
+layout: post
+title: Loan Delinquency and Its Impact on Financial Institutions in the UK
+subtitle: Loan Delinquency Analysis
+cover-img: /assets/img/Loan_Delin_cover.jpeg
+thumbnail-img: /assets/img/Loan_Def_thumb.jpeg
+tags: [Analysis,Loan Delinquency]
+author: Ajay Babu Pavuluri
+---
 
 In recent years, financial institutions in the UK have faced significant challenges due to rising delinquency rates. The economic instability caused by the COVID-19 pandemic has led to an increase in loan defaults and financial losses. According to a report by S&P Global Market Intelligence, major British banks made provisions against loan losses of more than £7.5 billion in the first quarter of 2020, nearly six times the amount set aside in the same period the previous year. These provisions reflect the anticipated rise in credit losses, which are estimated to reach £18.5 billion.
 
@@ -36,35 +44,10 @@ A positive linear relationship between annual income and loan amount underscores
 ### Distribution of Late Payments
 Most borrowers have zero to one late payment, while a smaller proportion has multiple late payments, indicating varying levels of financial management among borrowers.
 
-![Loan Delinquency Analysis](images/LoanDelinquency_1.jpeg)
-![Loan Delinquency Analysis](images/LoanDelinquency_2.jpeg)
+![Loan Delinquency Analysis](/assets/img/LoanDelinquency_1.jpeg)
+![Loan Delinquency Analysis](/assets/img/LoanDelinquency_2.jpeg)
 
-## Analysis Results Summary
 
-- *Total number of loans*: 1000
-- *Total loan amount*: £20,934,255.00
-- *Average loan amount*: £20,934.26
-- *Average interest rate*: 7.30%
-- *Average credit score*: 698.29
-- *Delinquency rate*: 15.00%
-- *Correlation between credit score and interest rate*: -0.9652
-- *Correlation between income and loan amount*: 0.9308
-
-## Loans by Term
-
-| Loan Term (months) | Count | Total Amount | Average Amount |
-|--------------------|-------|--------------|----------------|
-| 12                 | 110   | £2,132,824   | £19,438.95     |
-| 24                 | 205   | £4,321,484   | £21,080.41     |
-| 36                 | 382   | £8,041,205   | £21,050.27     |
-| 48                 | 209   | £4,552,801   | £21,783.74     |
-| 60                 | 94    | £1,880,481   | £20,005.12     |
-
-These insights and analysis results provide a comprehensive understanding of the loan data, highlighting key trends and relationships that can help financial institutions improve their risk management strategies. The ability to predict and mitigate loan delinquency risks can significantly enhance financial stability and profitability.
-
-For more details on the code and analysis, please refer to the [GitHub repository](https://github.com/your-username/your-repository).
-
----
 
 ## Code Snippets
 
@@ -164,4 +147,4 @@ def create_visualizations(df, analysis_results):
 ```
 These insights and analysis results provide a comprehensive understanding of the loan data, highlighting key trends and relationships that can help financial institutions improve their risk management strategies. The ability to predict and mitigate loan delinquency risks can significantly enhance financial stability and profitability.
 
-For more details on the code and analysis, please refer to the [GitHub repository](https://github.com/your-username/your-repository).
+For more details on the code and analysis, please refer to the [GitHub repository]([https://github.com/your-username/your-repository](https://github.com/ajaypavuluri9/loan-delinquency-analysis)).
