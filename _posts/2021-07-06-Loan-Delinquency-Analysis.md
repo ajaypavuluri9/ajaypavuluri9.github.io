@@ -9,7 +9,7 @@ author: Ajay Babu Pavuluri
 ---
 
 In recent years, financial institutions in the UK have faced significant challenges due to rising delinquency rates. The economic instability caused by the COVID-19 pandemic has led to an increase in loan defaults and financial losses. According to a report by S&P Global Market Intelligence, major British banks made provisions against loan losses of more than £7.5 billion in the first quarter of 2020, nearly six times the amount set aside in the same period the previous year. These provisions reflect the anticipated rise in credit losses, which are estimated to reach £18.5 billion&#8203;:[[S&P Global](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/uk-banks-loan-loss-provisions-soar-in-face-of-pandemic-58478176)]&#8203;.
-.
+
 
 The Bank of England's Financial Stability Report of June 2024 highlights that mortgage arrears are expected to rise significantly, with an estimated 128,000 cases of mortgage arrears projected by the end of 2024, up from 105,600 cases at the end of the previous year. This increase in arrears is attributed to higher living costs and economic uncertainty, affecting borrowers' ability to meet their financial obligations&#8203;:[[Bank of England](https://www.bankofengland.co.uk/financial-stability-report/2024/june-2024)]&#8203;.
 
